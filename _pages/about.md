@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: главная
 permalink: /
 subtitle: Страница со всеми подряд ссылками
 
