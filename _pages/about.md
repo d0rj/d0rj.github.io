@@ -1,8 +1,8 @@
 ---
 layout: about
-title: главная
+title: about
 permalink: /
-subtitle: Страница со всеми подряд ссылками
+subtitle: A page with all the links in a row
 
 profile:
   align: right
@@ -19,4 +19,4 @@ selected_papers: false # true # includes a list of papers marked as "selected={t
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ну тут пока что нечего писать. Оставлю этот блок пустым.
+Well, there's nothing to write yet. I'll leave this block empty.
